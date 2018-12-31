@@ -6,4 +6,6 @@ var appConfig = {
     colorTheme: {
         overrides: brandedColors
     }
-}
+};
+
+window.appConfig = appConfig;
